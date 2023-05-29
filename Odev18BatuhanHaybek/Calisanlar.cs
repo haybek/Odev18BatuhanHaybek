@@ -8,6 +8,6 @@ namespace Odev18BatuhanHaybek
 {
     public enum Calisanlar
     {
-        Calisan1, Calisan2, Calisan3, Calisan4, Calisan5
+        Calisan1
     }
 }
